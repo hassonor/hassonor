@@ -1,6 +1,6 @@
 
 [![GitHub hassonor](https://img.shields.io/github/followers/hassonor?label=follow&style=social)](https://github.com/hassonor)&nbsp;
-[![Linkedin Profile](https://img.shields.io/badge/-OR%20HASSON-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hassonor/)&nbsp;
+[![Linkedin Profile](https://img.shields.io/badge/-OR%20HASSON-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/orhasson/)&nbsp;
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=hassonor/hassonor)&nbsp;
 
 
