@@ -1,8 +1,7 @@
 
 [![GitHub hassonor](https://img.shields.io/github/followers/hassonor?label=follow&style=social)](https://github.com/hassonor)&nbsp;
 [![Linkedin Profile](https://img.shields.io/badge/-OR%20HASSON-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/orhasson/)&nbsp;
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=hassonor/hassonor)&nbsp;
-
+<!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=hassonor/hassonor)&nbsp; -->
 
 <h2> Skills </h2>
 <img width="22px" title="Javascript" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg">
