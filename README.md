@@ -21,6 +21,8 @@
 <img width="22px" title="Git" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg">
 <img width="22px" title="Git" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg">
 <img width="22px" title="Git" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redis.svg">
+<img width="22px" title="Git" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg">
+<img width="22px" title="Git" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kubernetes.svg">
 
 <br>
 <br>
