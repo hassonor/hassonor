@@ -31,7 +31,7 @@
 <img width="22px" title="Git" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/grafana.svg">
 <img width="22px" title="Git" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kibana.svg">
 
-<br>
+<!-- <br>
 <br>
 
 <h2> GitHub Stats </h2>
@@ -39,5 +39,5 @@
 ![OR HASSON GitHub Stats](https://github-readme-stats.vercel.app/api?username=hassonor&count_private=true&show_icons=true)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassonor&layout=compact&card_width=445&exclude_repo=nand2tetris&langs_count=10)
-
+ -->
 
